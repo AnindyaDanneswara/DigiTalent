@@ -4,7 +4,7 @@ Akses Cepat Hasil Pengerjaan
 
 <p>
 INTERMEDIATE ASSISTANT WEB DEVELOPER
----------------------------------------
+----------------------------------------------------------------------------------------------------
   
   <img src="Intermediate Assistant Web Developer/Final Assessment.jpeg" width="300" alt="First Screenshot" />
   <img src="Intermediate Assistant Web Developer/Quiz 1.jpeg" width="300" alt="Second Screenshot" />
