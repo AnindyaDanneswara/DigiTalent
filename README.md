@@ -2,7 +2,7 @@ Akses Cepat Hasil Pengerjaan
 
 ----------------------------
 
-<p align="center">
+<p>
 INTERMEDIATE ASSISTANT WEB DEVELOPER
 ------------------------------------
   
